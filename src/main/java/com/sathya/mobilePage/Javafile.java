@@ -1,0 +1,10 @@
+package com.sathya.mobilePage;
+
+public class Javafile {
+
+	public static void main(String[]  args)
+	{
+		System.out.println("Hello World");
+	}
+	
+}
